@@ -6,6 +6,12 @@
 ### How to run
  - make sure you have installed selenium
  - modify the user account information on config.py
+ ```
+ class Account_Info:
+    CORRECT_ID = "User Email"
+    CORRECT_PASSWORD = 'User password'
+    USER_NAME = "User name"
+ ```
  - If use chrome, then check the chrome version and change the browser from test.py file or you can change other browser you want
  ```
 @classmethod
