@@ -23,6 +23,8 @@
  $ cd test_suit/
  $ python test_login.py
  ```
+ - [DEMO video](https://drive.google.com/file/d/10DnrbEZVDZC_EzMGk2wZBHixUcNIXj1G/view?usp=sharing)
+ 
 
 ### driver
  - A folder to put browser driver
