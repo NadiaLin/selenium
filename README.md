@@ -5,7 +5,7 @@
  
 ### How to run
  - make sure you have installed selenium
- - modify the user accoint information on config.py
+ - modify the user account information on config.py
  - If use chrome, then check the chrome version and change the browser from test.py file or you can change other browser you want
  ```
 @classmethod
