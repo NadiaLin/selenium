@@ -23,7 +23,7 @@
  $ cd test_suit/
  $ python test_login.py
  ```
- - [DEMO video](https://drive.google.com/file/d/10DnrbEZVDZC_EzMGk2wZBHixUcNIXj1G/view?usp=sharing)
+ - [DEMO video](https://drive.google.com/file/d/1-Ch-kwgJZ5BVpN-Q8CMU9nYuwx0oaUjq/view?usp=sharing)
  
 
 ### driver
